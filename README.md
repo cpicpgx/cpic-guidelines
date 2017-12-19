@@ -12,6 +12,8 @@ Files stored in this repo will be available on the CPIC web server at the follow
 https://cpicpgx.org/content/guideline/publication/<path-to-file>
 ```
 
+You can browse the currently deployed guideline files at [https://cpicpgx.org/content/guideline/publication/](https://cpicpgx.org/content/guideline/publication/)
+
 
 ## Maintainers
 
